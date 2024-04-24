@@ -3,7 +3,7 @@
 Run the following command to test the app locally
 
 ```py
-streamlit run https://raw.githubusercontent.com/titipata/dogbreed/master/st_dogbreed.py
+streamlit run https://dogvisiondeepesh-csjm-university.streamlit.app/
 ```
 
 This will load `inception_v3` pretrained model and the assigned
